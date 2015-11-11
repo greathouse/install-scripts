@@ -1,0 +1,28 @@
+* brew
+* sdkman
+* rvm/ruby
+* jekyll
+* slack
+* chrome
+* Virtualbox
+	- save/restore vm
+* boot2docker (or equivalent)
+* iTerm2 (with settings)
+* Google Drive
+* Seil
+* Xcode
+* BeardedSpice
+* adbFire
+* Bash Prompt (~/.bash_profile)
+* Atom
+	- setup plugins
+* Intellij
+	- setup plugins?
+* Git
+	- setup config
+	- clone projects?
+	- save SSH key somewhere
+* AWS
+	- install cli
+	- save credentials somewhere
+
